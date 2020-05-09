@@ -17,6 +17,8 @@ Data is a CSV consisting of 16,00,000 tweets with emoticons removed. Data file f
 4 - the user that tweeted (robotickilldozr) <br/>
 5 - the text of the tweet (Lyx is cool) <br/>
 
+**Source:** http://help.sentiment140.com/for-students
+
 ## 3. Network Architecture
 
 * 1 embedding layer <br/>
